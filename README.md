@@ -16,7 +16,7 @@ Key capabilities:
 
 The tool demonstrates how quantum computing fundamentally breaks modern cryptography, serving as both a research tool and a warning about post-quantum security needs. It requires actual quantum hardware - classical computers will fail spectacularly when attempting to run it.
 
-![Quantum Supremacy](https://media.giphy.com/media/Lp5wuqMOmLUaAdbFQz/giphy.gif)
+![Quantum Supremacy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHcwbmkxZWIxMHZ6NmYxcXRxdWEwbmN3ZzR0c2hneTlvZ3VzN21ieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif)
 
 ## 🌌 Hardware Requirements
 
