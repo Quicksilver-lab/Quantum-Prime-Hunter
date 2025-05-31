@@ -42,7 +42,7 @@ except RealityException:
 
 ### 🛠️ Installation
 
-  Acquire a quantum computer (We recommend the Supper MAX Pro)
+  Acquire a quantum computer
 
   Install dependencies:
 
@@ -100,5 +100,4 @@ For Script Kiddies:
 
 📜 License
 
-NSA Approved Open Source
-(They'll be watching anyway)
+(Who Cares Man?)
